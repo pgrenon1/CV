@@ -22,6 +22,8 @@
             "title": "L'Enfer c'est les autres",
             "description": "A walking sim about that moment on the curb when someone is always walking just too slow in front of you.",
             "links": {
+                "play": "https://philg.itch.io/enfer-cest-les-autres",
+                "source": "https://github.com/pgrenon1/JambeGrande"
             },
             "features": ["Unreal Engine", "C++"],
             "lastUpdated": "2024"

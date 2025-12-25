@@ -1,0 +1,2 @@
+Hey Phil, it's me, YOU from the past. If you read this, it's probably because you're back on your Resumed project. The scripts you need are all in package.json.
+Update whatever you need in resume.json, resume.fr.json and games.json and then run `npm run render` to update the html version of your resume, then run `npm run export` to get the PDF versions.
