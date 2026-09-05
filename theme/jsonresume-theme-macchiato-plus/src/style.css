@@ -72,6 +72,25 @@ body {
   color: #39424B;
 }
 
+.language-switch {
+  position: fixed;
+  top: 16px;
+  right: 16px;
+  z-index: 10;
+  padding: 5px 9px;
+  border: 1px solid #386083;
+  border-radius: 3px;
+  color: #386083;
+  font-size: 11px;
+  line-height: 1;
+  background: white;
+}
+
+.language-switch:hover {
+  color: white;
+  background: #386083;
+}
+
 h1,
 h2,
 h3,
@@ -294,6 +313,10 @@ ul.two-column li {
 @media print {
   body {
     margin: 0;
+  }
+
+  .language-switch {
+    display: none;
   }
 
   .page {

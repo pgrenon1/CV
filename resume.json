@@ -374,6 +374,10 @@
     }
   ],
   "meta": {
+    "language": "en",
+    "languageSwitchLabel": "Français",
+    "languageSwitchLanguage": "fr",
+    "languageSwitchUrl": "resume.fr.html",
     "theme": "jsonresume-theme-macchiato-plus",
     "version": "v1.0.0",
     "lastModified": "2024-07-01",
