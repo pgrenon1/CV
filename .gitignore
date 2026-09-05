@@ -136,3 +136,6 @@ dist
 
 # Vite logs files
 vite.config.js.timestamp-*
+
+# This is pulled from the portfolio repo
+games.json
