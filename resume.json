@@ -115,8 +115,8 @@
       "type": "game"
     },
     {
-      "name": "Unannounced Project",
-      "description": "Unannounced Metric Empire project",
+      "name": "Unannounced Projects",
+      "description": "Unannounced Metric Empire projects",
       "keywords": ["Unreal Engine", "C++", "GAS", "3Cs", "Network Multiplayer"],
       "startDate": "2024",
       "type": "game"
